@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nils-ni.
-- 👀 I’m interested in medical engineering.
+- 👀 I’m interested in engineering.
 - 🌱 I’m currently learning C++/CMake.
 - 💞️ I’m looking to collaborate on Projects with learning factor.
 - 📫 How to reach me: nils.niedner@gmail.com
